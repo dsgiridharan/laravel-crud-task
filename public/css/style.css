@@ -1,0 +1,17 @@
+nav a {
+    color: black !important;
+}
+
+.alert {
+    padding: 6px 20px;
+    border-radius: 4px;
+}
+
+#welcome .card {
+    color: black;
+    text-decoration: none;
+}
+
+#welcome .card p {
+    margin: 0px;
+}
